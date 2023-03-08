@@ -1,0 +1,4 @@
+ID,Capital,NbrMois,Taux,Demanduer,Metualité
+1,800000.0,240,2.0,Selaimane, 0.0
+2,500000.0,150,1.5,Mehdi, 0.0
+3,600000.0,180,2.2,Ali, 0.0
